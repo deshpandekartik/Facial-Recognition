@@ -4,7 +4,7 @@
 ## Setup
 
 For installing opencv and all its dependencies 
-# script borrowed from https://gist.github.com/arthurbeggs/06df46af94af7f261513934e56103b30
+script borrowed from https://gist.github.com/arthurbeggs/06df46af94af7f261513934e56103b30
 
 ```
 sudo bash install_openv.sh
